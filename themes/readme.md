@@ -1,8 +1,8 @@
 # Available Themes
 
 ## Default
-- [dark](/themes/dark/readme.md) by @SimonLeclere
-- [light](/themes/light/readme.md) by @SimonLeclere
+- [dark](/themes/dark) by @SimonLeclere
+- [light](/themes/light) by @SimonLeclere
 
 ## Community
-- [RaphCosmo](/themes/RaphCosmo/readme.md) by @raph-exe
+- [RaphCosmo](/themes/RaphCosmo) by @raph-exe
